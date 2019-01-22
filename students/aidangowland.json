@@ -1,0 +1,13 @@
+{
+    "firstName": "Aidan",
+    "lastName": "Gowland",
+    "privateName": false,
+    "picture": "images/aidangowland.jpg",
+    "privatePicture": false,
+    "email": "aidan.gowland@mail.utoronto.ca",
+    "privateEmail": false,
+    "github": "aidangowland",
+    "privateGithub": false,
+    "superpower" : "knocking stuff over",
+    "academicinterests": "History/Polisci major with specific interests in moral injury in WWI; gender integration in NATO militaries"
+  }
